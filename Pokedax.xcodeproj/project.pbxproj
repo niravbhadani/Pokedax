@@ -12,6 +12,7 @@
 		18BD9F1F1F344F990096D81A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BD9F1D1F344F990096D81A /* Main.storyboard */; };
 		18BD9F211F344F990096D81A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BD9F201F344F990096D81A /* Assets.xcassets */; };
 		18BD9F241F344F990096D81A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BD9F221F344F990096D81A /* LaunchScreen.storyboard */; };
+		18BD9F2C1F346D240096D81A /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 18BD9F2B1F346D240096D81A /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18BD9F201F344F990096D81A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18BD9F231F344F990096D81A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18BD9F251F344F990096D81A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18BD9F2B1F346D240096D81A /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				18BD9F1B1F344F990096D81A /* ViewController.swift */,
 				18BD9F1D1F344F990096D81A /* Main.storyboard */,
 				18BD9F201F344F990096D81A /* Assets.xcassets */,
+				18BD9F2B1F346D240096D81A /* pokemon.csv */,
 				18BD9F221F344F990096D81A /* LaunchScreen.storyboard */,
 				18BD9F251F344F990096D81A /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				18BD9F241F344F990096D81A /* LaunchScreen.storyboard in Resources */,
 				18BD9F211F344F990096D81A /* Assets.xcassets in Resources */,
+				18BD9F2C1F346D240096D81A /* pokemon.csv in Resources */,
 				18BD9F1F1F344F990096D81A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				18BD9F2A1F344F990096D81A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
